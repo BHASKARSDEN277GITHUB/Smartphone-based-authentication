@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>Demo Web Index</title>
+	<link rel="stylesheet" type="text/css" href="final_major.css">
+	
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+			This is a demo service provider
+		</div>
+		 <!-- header closed -->
+		
+		<div id="content">
+			 </br> </br> </br> </br> 
+			Enter UID to start Authentication Process
+			<form action="hello.html" method="post">
+				<table>
+					<tr>
+					<input type="text" name="uid" size="40">
+					<input type="submit" value ="Continue" >
+					</tr>
+				</table>
+			</form>
+			 </br> </br> </br> </br> 
+	`	</div>
+		<!-- content closed -->
+		<div>
+		</div>
+		<div id="footer">
+			 </br> 
+			Bhaskar Kalia , Anurag Singh
+			</br>Sushant Thakur , Nisha Kumari
+			</br>Premlata Negi
+			 </br> 
+			
+		</div>
+		<!-- footer closed -->
+	</div> 
+	<!-- wrapper closed -->
+	
+</body>
+
